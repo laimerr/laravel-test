@@ -16,7 +16,7 @@
                             <a title="news1" style="color: white;
                                                     font-size: 20px;
                                                     text-shadow: 2px 2px 2px black;
-                                                   ">Что лучше Unity или Unreal Engine 4?</a>
+                                                   ">Php Developer</a>
                             <span style="
                                           display: flex;
                                           margin: 0 auto;
@@ -24,7 +24,7 @@
                                           max-height: 200px;
                                           overflow: hidden;
                                           text-overflow: ellipsis;"
-                          >Ранее лучшим игровым движком был Unity, но сегодня столь же востребован Unreal Engine 4. Какой же из них лучше выбрать? Давайте разбираться.</span>
+                          >PHP is a simple yet powerful scripting language for creating dynamic web content.</span>
                           </h3>
                         </figcaption>
                         </section>
